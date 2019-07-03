@@ -1,0 +1,217 @@
+
+document.getElementById("articleClickCount").innerHTML = 32014;
+
+document.getElementById("articleCommentCount").innerHTML = 72;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 6414;
+
+document.getElementById("articleCommentCount").innerHTML = 1;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 2466;
+
+document.getElementById("articleCommentCount").innerHTML = 38;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 14941;
+
+document.getElementById("articleCommentCount").innerHTML = 4;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 10290;
+
+document.getElementById("articleCommentCount").innerHTML = 11;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 4905;
+
+document.getElementById("articleCommentCount").innerHTML = 1;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 4150;
+
+document.getElementById("articleCommentCount").innerHTML = 5;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 3914;
+
+document.getElementById("articleCommentCount").innerHTML = 3;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 8088;
+
+document.getElementById("articleCommentCount").innerHTML = 3;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 8765;
+
+document.getElementById("articleCommentCount").innerHTML = 3;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 4329;
+
+document.getElementById("articleCommentCount").innerHTML = 6;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 6398;
+
+document.getElementById("articleCommentCount").innerHTML = 3;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 2177;
+
+document.getElementById("articleCommentCount").innerHTML = 0;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 3744;
+
+document.getElementById("articleCommentCount").innerHTML = 14;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 1648;
+
+document.getElementById("articleCommentCount").innerHTML = 0;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 4988;
+
+document.getElementById("articleCommentCount").innerHTML = 4;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 4398;
+
+document.getElementById("articleCommentCount").innerHTML = 84;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 56;
+
+document.getElementById("articleCommentCount").innerHTML = 0;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 387;
+
+document.getElementById("articleCommentCount").innerHTML = 0;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 271;
+
+document.getElementById("articleCommentCount").innerHTML = 0;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 144;
+
+document.getElementById("articleCommentCount").innerHTML = 0;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 2671;
+
+document.getElementById("articleCommentCount").innerHTML = 0;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 5838;
+
+document.getElementById("articleCommentCount").innerHTML = 14;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 345;
+
+document.getElementById("articleCommentCount").innerHTML = 0;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 3202;
+
+document.getElementById("articleCommentCount").innerHTML = 0;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 2391;
+
+document.getElementById("articleCommentCount").innerHTML = 20;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 215137;
+
+document.getElementById("articleCommentCount").innerHTML = 624;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 17497;
+
+document.getElementById("articleCommentCount").innerHTML = 51;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 40;
+
+document.getElementById("articleCommentCount").innerHTML = 0;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 17732;
+
+document.getElementById("articleCommentCount").innerHTML = 75;
+
+
+
+
+document.getElementById("articleClickCount").innerHTML = 15416;
+
+document.getElementById("articleCommentCount").innerHTML = 64;
+
+
+
