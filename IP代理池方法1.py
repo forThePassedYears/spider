@@ -32,3 +32,4 @@ for i in range(5):
         print(err)
 
 print("这不是我想要的结果")
+print("肿么肥四")
